@@ -1,5 +1,10 @@
 # BanorteApp
 
+### Mario Isaí Robles Lozano A01197707
+### Gianna Paola Chapa González A01285428
+### Francisco Mestizo Hernández A01731549
+### Adrián Emmanuel Faz Mercado A01570770
+
 ## Liga a repositorio de la API
 
 https://github.com/FranciscoMest02/BanorteAPI/tree/main
